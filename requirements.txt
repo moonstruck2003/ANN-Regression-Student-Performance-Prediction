@@ -3,3 +3,5 @@ pandas
 numpy
 matplotlib
 streamlit
+tensorflow==2.19.0
+tensorboard
