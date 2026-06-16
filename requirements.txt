@@ -4,4 +4,4 @@ numpy
 matplotlib
 streamlit
 tensorboard
-tensorflow
+tensorflow==2.15.0
